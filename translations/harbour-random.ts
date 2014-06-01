@@ -16,4 +16,11 @@
         <translation type="unfinished"></translation>
     </message>
 </context>
+<context>
+    <name>SettingsPage</name>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
 </TS>

@@ -44,6 +44,7 @@ Page {
         PushUpMenu {
             MenuItem{
                 text: qsTr("Options")
+                onClicked: pageStack.push(Qt.resolvedUrl("SettingsPage.qml"))
             }
         }
 

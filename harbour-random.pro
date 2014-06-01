@@ -23,7 +23,9 @@ OTHER_FILES += qml/harbour-random.qml \
     rpm/harbour-random.spec \
     rpm/harbour-random.yaml \
     translations/*.ts \
-    harbour-random.desktop
+    harbour-random.desktop \
+    qml/JS/preferences.js \
+    qml/pages/SettingsPage.qml
 
 # to disable building translations every time, comment out the
 # following CONFIG line
