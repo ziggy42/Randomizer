@@ -22,5 +22,13 @@
         <source>Settings</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>minValue:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

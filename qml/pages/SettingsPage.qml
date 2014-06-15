@@ -20,6 +20,14 @@ Page {
                 title: qsTr("Settings")
             }
 
+            SectionHeader {
+                text: qsTr("Number")
+            }
+
+            Label {
+                id: minValueLabel
+                text: qsTr("minValue:")
+            }
 
         }
     }
